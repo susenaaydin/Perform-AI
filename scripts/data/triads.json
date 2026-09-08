@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "rules": "Oyuncu monolog boyunca karakterin zihinsel karmaşasını, ani duygu geçişlerini ve melankolik yapısını yansıtmalıdır.",
+        "script": "Nasıl ayırdederim bir bakışta\nSeveni sevmeyenden?\nKülahından, tozlu çarıklarından,\nElindeki değnekten.\nÖldü, güzel sultanım çoktan öldü.\nÖldü, gömüldü bile.\nBaşında yemyeşil otlar büyüdü,\nTaşı dikildi bile.\nNe olur dinleyin!\nAk kefenler giyindi kardan beyaz,\nSarıldı çiçeklere.\nArar arar sevdiğini bulamaz,\nAğlayanlar içinde.\n[Kahkaha]\nFırıncının kızı baykuş olmuş diyorlar.\nAllah korusun.\nİnsan ne olduğunu bilir, ama ne olacağını bilemez.\nTanrı bereketini eksik etmesin sofranızdan.\nKendiniz hiçbir söz söylemeyin sakın bunun üstüne, ama ne demek olduğunu soran olursa şöyle dersiniz:\nYarın bayram, Saint Valentine bayramı,\nErken uyanır herkes.\nBen bir kızım, gelirim pencerene,\nEşim ol derim sana.\nDelikanlı kalktı, hemen giyindi,\nAçtı kıza kapısını.\nKız girdi içeri, kız girdi ama,\nKız çıkmadı dışarı.\nAyıp, ne ayıp şey bu!\nFırsat bulan her genç yapıyor bunu\nYüzü kızarmaksızın.\nKız dedi: Bu işi yapmazdan önce\nEvleniriz demiştin?\nDelikanlı şöyle karşılık verdi:\nEvlenirdim sabah sabah gelip de\nKoynuma girmeseydin.\nElbet bir gün düzelir her şey.\nİnsan sabırlı olmalı;\nEvet ama ağlamamak elimde değil\nDüşündükçe soğuk topraklara gömüldüğünü.\nGeceniz hayrolsun, bayanlar, iyi geceler,\nGüzel bayanlar, iyi geceler,\nİyi geceler, iyi geceler!",
+        "name": "Ophelia",
+        "author": "William Shakespeare",
+        "targetEmotion": "Melankoli / Karmaşık",
+        "difficulty": "İleri",
+        "duration": "3dk"
+    },
+    {
+        "id": 2,
+        "rules": "Gemma modelinin analiz yaparken kullandığı temel kurallar. Oyuncu içten, saf ve çocuksu bir dertleşme tonu yakalamalı, hüzün ile naif tebessümler arasındaki geçişi dengeli sunmalıdır.",
+        "script": "Tanrım seninle biraz konuşmak istiyorum.\nYalnız Türkçe konuşabilir miyiz?\nÜzgünüm ben Arapça bilmiyorum da.\nKürşat Dayım senin yalnızca Arapça bildiğini düşünüyor ama sen bizim tanrımızsın ve bütün dilleri bilirsin.\nTanrım ben babamın yanına alışın konusunda konuşmak istiyorum,\nKızmazsın umarım;\nçünkü senin bu çeşit konuşmalardan hoşlanmadığını söylüyorlar.\nAma bu işte biraz aceleci davranmadın mı?\nBabam biraz daha yaşayabilirdi bence.\nAma onu yanına aldığına göre bir bildiğin mutlaka vardır.\nTanrının neyi neden yaptığına aklımız ermezmiş, öyle diyorlar.\nSenin adına konuşan ne çok insan var tanrım, hiç dikkat çekti mi?\nYani çekmiştir mutlaka da…\nTanrım ona iyi bak olur mu?\nBiliyorsun o ticaretten anlamaz.\nKendisinde mutlaka aksini iddia edecek ama sen yine onu ticari bir işte kullanma.\nİyi bir memurdur aslında,\nmasa başı bir iş verirsen mutlaka başarılı olacaktır.\nÖzür dilerim tanrım, tedaviye karışıyor gibi oldum ama.\nTanrım, o çok iyi bir insandı\nve muhtemelen onu cennete alacaksın.\nBu da benim bir daha onu göremeyeceğim anlamına geliyor.\nÇünkü ben deliyim\nve cennete giremem herhalde.\nÇok uzadım biliyorum,\nçok uzadım ama hemen bitiriyorum.\nSon olarak kendimle ilgili bir şey istemek istiyorum.\nBelki kızacaksın ama ayarlamak zorundayım.\nTanrım,\nben şimdi n'apıcam?",
+        "name": "Gülseren",
+        "author": "Yılmaz Erdoğan",
+        "targetEmotion": "Hüzün / Naiflik",
+        "difficulty": "Orta",
+        "duration": "2.5dk"
+    },
+    {
+        "id": 3,
+        "rules": "Gemma modelinin analiz yaparken kullandığı temel kurallar. Oyuncu felsefi, sorgulayıcı ve absürt tiyatronun getirdiği varoluşsal ritme uygun, yer yer coşkulu yer yer alaycı bir üslup benimsemelidir.",
+        "script": "Boş konuşmalarla zamanımızı harcamayalım!\nFırsat varken bir şeyler yapalım!\nHer gün birilerinin bize ihtiyacı olmuyor.\nAslında özellikle bize ihtiyaç duymuyorlar.\nBaşkaları da daha iyi olmasa bile, aynı derecede bizim yaptıklarımızı yapabilirlerdi.\nKulaklarımızda çınlayan şu yardım çığlıkları bütün insanlığa yöneltilmiş!\nAma burada, zamanın bu anında, istesek de istemesek de bütün insanlık biziz.\nÇok geç olmadan bundan yararlanalım!\nZalimce bir alın yazısının bize layık gördüğü iğrenç güruhu hakkıyla temsil edelim!\nNe dersin?\nKollarımızı kavuşturup yardım etmenin iyi ve kötü yanlarını hesaplarken cinsimize kötülük etmediğimiz doğru.\nKaplan hiç düşünmeden hemcinsinin yardımına koşar ya da çalılıkların kuytularına siner.\nAma sorun bu değil.\nSorun burada ne yaptığımız.\nVe cevabı bildiğimiz için mutluyuz.\nEvet, bu uçsuz bucaksız karmaşada kesin olan tek bir şey var.\nGodot'nun gelmesini bekliyoruz.\nYa da geceniz çökmesini.\nBuluşacağımız yere saatinde geldik ve bu da sonu işte.\nAziz değiliz ama bu da sonu işte.\nAziz değiliz ama buluşacağımız yere saatinde geldik.\nKaç insan böyle bir şeyle övünebilir?",
+        "name": "Vladimir / Estragon",
+        "author": "Samuel Beckett",
+        "targetEmotion": "Varoluşsal Kaygı / Coşku",
+        "difficulty": "İleri",
+        "duration": "2dk"
+    },
+    {
+        "id": 4,
+        "rules": "Gemma modelinin analiz yaparken kullandığı temel kurallar. Oyuncu güç tutkusu, vicdan azabı, korku ve suçluluk psikolojisi altındaki ağır, karanlık içsel hesaplaşmayı yansıtmalıdır.",
+        "script": "Yapmakla olup bitseydi bu iş,\nHemen yapardım, olup biterdi.\nDöktüğüm kanla akıp gitse her şey,\nBir vuruşta sonuna varılsa işin,\nBir anda bu dünyayı olsun kazanıversen,\nZaman denizinin bir kumsalı olan bu dünyayı,\nÖbür dünyayı gözden çıkarır insan.\nAma bu işlerin daha burada görülüyor hesabı.\nVerdiğimiz kanlı dersi alan\nGelip bize veriyor aldığı dersi.\nDoğruluğun şaşmaz eli bize sunuyor\nİçine zehir döktüğümüz kupayı.\nAdam burada, iki katlı güvenlikte:\nBir kere akrabası ve adamıyım:\nOna kötülük etmemem için iki zorlu sebep.\nSonra misafirim;\nDeğil kendim bıçaklamak,\nEl bıçağına karşı korumam gerek onu.\nÜstelik bu Duncan, ne iyi yürekli bir insan,\nVe ne bulunmaz bir kral.\nHer değeri ayrı bir İsrafil borusu olur\nLanet okumak için onu öldürene!\nAcımak yeni doğmuş bir çocuk olur, çırılçıplak,\nKasırganın yelesine sarılmış,\nYa da bir melek, görülmez atlarına binmiş göklerin,\nVe gider dört bir yana haber verir\nBu yürekler acısı cinayeti,\nGöz yaşı savrulur esen yellerde.\nSebep yok onu öldürmem için,\nBeni mahmuzlayan tek şey, kendi yükselme hırsım;\nO da bir atlayış atlıyor ki atın üstüne\nÖbür tarafa düşüyor, eğerde duracak yerde.",
+        "name": "Macbeth",
+        "author": "William Shakespeare",
+        "targetEmotion": "Korku / Vicdan Azabı / Hırs",
+        "difficulty": "İleri",
+        "duration": "3.5dk"
+    },
+    {
+        "id": 5,
+        "rules": "Gemma modelinin analiz yaparken kullandığı temel kurallar. Dünya tiyatro tarihinin en ikonik monoloğunda oyuncu derin bir felsefi sorgulama, melankoli ve öfke patlamaları arasındaki gelgitleri aktarmalıdır.",
+        "script": "Olmak ya da olmamak, işte bütün mesele bu!\nDüşüncemizin katlanması mı güzel\nZalim kaderin yumruklarına, oklarına\nYoksa diretip bela denizlerine karşı\nDur, yeter demesi mi?\nÖlmek, uyumak sadece!\nDüşünün ki uyumakla yalnız\nBitebilir bütün acıları yüreğin,\nÇektiği bütün kahırlar insanoğlunun.\nUyumak, ama düş görebilirsin uykuda, o kötü.\nÇünkü, o ölüm uykularında\nSıyrıldığımız zaman yaşamak kaygısından\nNe düşler görebilir insan, düşünmeli bunu.\nBu düşüncedir felaketleri yaşanır yapan.\nYoksa kim dayanabilir zamanın kırbacına?\nZorbanın kahrına, gururunun çiğnenmesine\nSevgisinin kepaze edilmesine\nKanunların bu kadar yavaş\nYüzsüzlüğün bu kadar çabuk yürümesine\nKötülere kul olmasına iyi insanın\nBir bıçak saplayıp göğsüne kurtulmak varken?\nKim ister bütün bunlara katlanmak\nAğır bir hayatın altında inleyip terlemek\nÖlümden sonraki bir şeyden korkmasa\nO kimsenin gidip de dönmediği bilinmez dünya\nÜrkütmese yüreğini?\nBilmediğimiz belalara atılmaktansa\nÇektiklerine razı etmese insanları?\nBilinç böyle korkak ediyor hepimizi:\nDüşüncenin soluk ışığı bulandırıyor\nYürekten gelenin doğal rengini.\nVe nice büyük, yiğitçe atılışlar\nYollarını değiştirip bu yüzden\nBir iş, bir eylem olma gücünü yitiriyorlar.",
+        "name": "Hamlet",
+        "author": "William Shakespeare",
+        "targetEmotion": "Varoluşsal Acı / Melankoli",
+        "difficulty": "İleri",
+        "duration": "3dk"
+    },
+    {
+        "id": 6,
+        "rules": "Gemma modelinin analiz yaparken kullandığı temel kurallar. Şizofrenik kopuşlar barındıran bu metinde oyuncu dramatik hezeyanlar, yoğun hüzün, çocuksu bir sığınma arzusu ve aniden gelişen absürt komedi tonunu yansıtmalıdır.",
+        "script": "Artık dayanacak halim kalmadı.\nTanrım! Neler yapıyorlar bu adamlar bana!..\nDuymuyor, görmüyor, dinlemek istemiyorlar beni.\nNe yaptım onlara?..\nNeden eziyet ediyor, benim gibi zavallıdan ne istiyorlar, ne verebilirim onlara?\nHiç bir şeyim yok.\nBittim artık,\ndayanamayacağım işkencelerinden.\nBaşım ateşler içinde yanıyor,\nher şey dönüyor gözlerimin önünde.\nYok mu beni buradan kurtaracak bir?..\nBir troika; yıldırım gibi atlar koşulu troika gelsin!..\nBabayiğit bir arabacı sürsün aslanlarını, şıngır şıngır ötsün çıngıraklar.\nUçursunlar beni bu cehennem dünyasından.\nUzağa, çok uzağa.\nHiçbir şey göremeyeceğim, duyamayacağım bir yere.\nİşte gökteki bulutlar kabarıp dönmeğe başladı önümde,\nuzaktan bir yıldız parladı.\nOrmanların loşluğu, ayın donuk ışığı gözümün önünde kaydıkça kayıyor.\nAyaklarımın altında mavi bir sis şeridi yayıldı.\nHavada gerilen bir telin vınlamasını duyuyorum.\nBir yanımda deniz, öbür yanımda İtalya.\nİşte Rus köylerinin karanlık evleri belirdi.\nOracıkta bir karaltı halinde gördüğüm küçük ev benim evim mi yoksa?..\nPencerenin önünde oturan kadın anam olmasın?..\nAnacığım, kurtar zavallı oğlunu!\nAğrıyan başına bir damla gözyaşı akıt, ne olur!\nGör, nasıl hırpalıyorlar evladını, bağrına bas bedbaht öksüzünü.\nYok onun yeri bu dünyada artık, insanlar aleminden attılar onu...\nBari sen acı hasta oğluna anacığım!\n(Burada kısa bir boşluk, zihinsel kopuş.)\nŞey...\nHaberiniz var mı?..\nCezayir Beyinin burnunun altında kocaman bir ben varmış!..",
+        "name": "Poprişçin",
+        "author": "Nikolay Gogol",
+        "targetEmotion": "Hezeyan / Çaresizlik / Şaşkınlık",
+        "difficulty": "İleri",
+        "duration": "4dk"
+    },
+    {
+        "id": 7,
+        "rules": "Gemma modelinin analiz yaparken kullandığı temel kurallar. Oyuncu histerik, baskı altında yaşayan, öfkeli ama dış dünyaya karşı neşeli görünmeye çalışan kadının trajikomik durumunu hızlı tempo değişimleriyle aktarmalıdır.",
+        "script": "(Telefon çalar)\nAh, kocam olacak…\nhep bu saatlerde arar beni…\nözür dilerim bir dakika…\nAlo?\nEvet…\nNe?\nNeee?\nhastir bok…\n(Telefonu kapar)\nUtanmıştır.\nAh çok afedersiniz…\nben aslında hiç kötü söz kullanmam…\nama bazen kaşınıyorlar…\nYok… yok… kocam değildi…\nkim olduğunu bilmiyorum…\nDomuzun teki…\ngünde iki üç… bin kere…\nÖylesine iğrenç sözler söyler ki…\nNereden biliyorum olur mu?\nBaktım sözlüğe, bulamadım…\nHasta mı?\nBaksanıza bende… evde bir hasta var…\n(Telefon yeniden çalar)\nBak gene o…\nDinle domuz…\nSeni uyarıyorum…\nCiao…\nKocam…\nSeninle ilgisi yok canım…\nkorkunç kötü sözler söylüyor…\nSana kızgın…\nSana borcun varmış…\n(Ev içi yalanlar hızlanır)\nEvet… evet… evet…\nKontrollü…\nKim sinirli…\nÇok çok neşeliyim…\n(bağırır)\nAldo çok neşeliyim!\nÇok neşeliyiiiim…\n(telefonu kapatır, çığlık)\nGördünüz mü?\nYalan söylemek zorunda kaldım…\no domuzun telefon ettiğini söyleyemem…\nZaten eve kilitliyor… hapisim…\n(üşütücü sakinlik)\nO anda röntgenciyi görür…\nYakaladım seni!\nAyy…\nGöğsümü yaktım…\nGörüyorsunuz değil mi…",
+        "name": "Yalnız Kadın",
+        "author": "Dario Fo & Franca Rame",
+        "targetEmotion": "Histeri / Öfke / Trajikomik",
+        "difficulty": "İleri",
+        "duration": "3dk"
+    },
+    {
+        "id": 8,
+        "rules": "Gemma modelinin analiz yaparken kullandığı temel kurallar. Karakterin geçmişteki kırgınlıkları, başarısızlık hissi ve monoloğun sonuna doğru yükselen umut, sabır ve oyuncu olma bilinci hassas bir duygu tonuyla oynanmalıdır.",
+        "script": "Neden bastığım toprakları öptüğünü söyledin bana?\nBeni öldürmek gerek.\nÖyle yorgunum ki!\nDinlenebilsem, birazcık dinlenebilsem!..\nBir martıyım ben...\nYok, değil, aktristim.\nAh, evet!\nO da burada demek!..\nEh, iyi..\nNe yapalım...\nEvet...\nTiyatroya inanmıyor, hayallerimle alay ediyordu...\nBöylece ben de inancımı yitirdim yavaş yavaş, hevesim kalmadı...\nSonra aşkın getirdiği sorunlar, kıskançlıklar, yavrum için duyduğum sürekli korku...\nUfaldım, zavallılaştım, boş bir kalıp gibi oynamaya başladım sahnede...\nEllerimi nereye koyacağımı bilemiyor, ayakta düzgün durmayı beceremiyor, sesimi denetleyemiyordum...\nİnsanın çok berbat oynadığını hissetmesi ne korkunç şeydir bilemezsiniz!\nBir martıyım ben.\nYok, değil.\nAnımsıyor musunuz, bir martı vurmuştunuz.\nGünün birinde bir adam geliyor, görüyor onu ve yapacak başka bir işi olmadığından kıyıyor ona...\nKüçük bir hikâye konusu...\nYok, bu da değildi söylemek istediğim...\nNe diyordum?..\nSahneden söz ediyordum, evet.\nŞimdi öyle değilim artık...\nŞimdi gerçek bir aktristim,\nzevk duyarak, coşkuyla oynuyorum;\nkendimden geçiyorum sahnede ve çok güzel olduğumu hissediyorum...\nBurada olduğum şu günlerde de yürüyorum hep, yürüyor ve düşünüyorum...\nİçimdeki bir gücün gelişip büyüdüğünü hissediyorum git gide...\nKostya, yazmışız, ya da sahnede oynamışız, fark etmez,\nanlıyorum ki bizim bu işlerde başta gelen şey, parıltı, şöhret filan gibi benim hayal ettiğim o şeyler değil, sabredebilme yeteneğidir...\nKaderine katlanmasını bil ve inançlı ol..\nİnanıyorum ben ve o kadar çok acı çekmiyorum şimdi...\nBir görevim, bir amacım olduğunu düşündüğümde, hayattan korkmuyorum...",
+        "name": "Nina",
+        "author": "Antov Çehov",
+        "targetEmotion": "Kırgınlık / Teslimiyet / Umut",
+        "difficulty": "İleri",
+        "duration": "3.5dk"
+    },
+    {
+        "id": 9,
+        "rules": "Gemma modelinin analiz yaparken kullandığı temel kurallar. Oyuncu başlangıçtaki kibirli ve iddialı tutum ile monoloğun sonundaki ihanete uğramışlık ve şaşkınlık hissini keskin bir geçişle vermelidir.",
+        "script": "Benim adım Nilüfer.\nNasıl tanıdınız beni o kadar mektup arasında?\nNasıl Fer’li kadınlar?\nNe tesadüf, şimdi de hayatınıza bir Nilüfer giriyor…\nOnları nasıl unutamadınızsa, beni de unutamayacaksınız.\nPek yakında olağanüstü bir şey olacak…\nSade siz değil, bütün Türkiye beni unutamayacak…\nİsterseniz başından anlatayım?\nBir arkadaş davetinde tanıştık.\nAdı Sekban’mış.\nNonşolant bir hali vardı.\nPipo içiyor ve alçak sesle konuşuyordu.\nDerhal yıldırımla vurulmak derler ya, öyle vuruldum.\nDüşünün bir kere, erkeklerin çoğu çayı şekerli ya da az şekerli içer, bu kırklama içiyordu.\nİdealimdeki erkek…\nSonrası, deliler gibi seviştik.\nAma gel gör ki, ailelerimiz bizi birbirimize vermiyor.\nBir çeşit Romeo Jüliyet durumu.\nRomeo Jüliyet canım.\nBiz kaçmaya karar verdik.\nSekban Mobil Oil’de çalışıyor.\nTahsili yok ama, İngilizcesi iyi.\nAyda 2500 lira alıyor.\nDün tam hazırlanıyorum, kapı.\nBir buket menekşe, en sevdiğim çiçek menekşedir.\nÜzerinde kartı vardı.\n“Affet beni Nilüfer, şirket beni Güney Afrika’ya gönderiyor, bu işi burada keselim, daha iyi.”\nSonsuz sevgiler, imza…\nTaksiye atlıyorum hemen, ver elini Ayazpaşa.\nBenim için ağladığını söyleyen o ahlaksız serseri,\nsarılar giymiş bir kızla el ele,\nbir de bakıyorum Müjgân…\nEn iyi arkadaşım Müjgân.",
+        "name": "Nilüfer",
+        "author": "Adalet Ağaoğlu",
+        "targetEmotion": "İhanet / Hayal Kırıklığı",
+        "difficulty": "Orta",
+        "duration": "2.5dk"
+    },
+    {
+        "id": 10,
+        "rules": "Gemma modelinin analiz yaparken kullandığı temel kurallar. Klasik komedinin en önemli örneklerinden olan bu tiratta oyuncu yüksek tempo, panik, nefes nefese bir öfke ve aşırı mal hırsının getirdiği gülünç çaresizliği sahnelemelidir.",
+        "script": "Yetişin! Hırsız var!\nYakalayın!\nAdam öldürüyorlar!\nCan kurtaran yok mu?\nHak, adalet nerede?\nAllah yok mu?\nVurdular! Canımı aldılar!\nGırtlağımı kestiler!\nParamı çaldılar, paramı!\nKim aldı, kim?\nNe oldu? Nerede?\nNereye saklandı?\nNe yapayım? Nasıl bulayım?\nNereye koşayım? Nereye koşmayayım?\nŞurada mı acaba? Burada mı yoksa?\nKim o? Dur! Yakaladım.\nVer paralarımı haydut!\nEyvah! Benmişim yakaladığım.\nNeredeyim, bilmiyorum ki!\nBen kimim? Ne yapıyorum?\nBilmiyorum.\nOldu bana olanlar!\nParam!\nZavallı paracığım!\nCanım, sevgilim benim!\nAldılar elimden seni!\nSen olmayınca ben neye sığınırım artık?\nNe ile avunur; ne ile sevinirim?\nHer şey bitti benim için!\nDünyada yapacak işim kalmadı benim!\nSensiz ne yaparım, nasıl yaşarım?\nOlacak şey mi?\nYaptılar bana yapacaklarını!\nDayanamam bu acıya!\nÖlüyorum; öldüm, gömdüler beni!\nDiriltmek isteyen yok mu beni?\nVersin paracıklarımı geri!\nYa da kimin aldığını söylesin!\nNe var? Ne diyorsunuz?\nKimse yokmuş.\nBu işi yapan bir hayli pusuda beklemiş olmalı…\nHadi durma git!\nGit, adalete başvur!\nHepsinin parmağı var bu hırsızlıkta!\nHadi gelsin jandarmalar!\nAstıracağım bütün dünyayı!",
+        "name": "Harpagon",
+        "author": "Molière",
+        "targetEmotion": "Panik / Öfke / Çaresizlik",
+        "difficulty": "İleri",
+        "duration": "2.5dk"
+    }
+]

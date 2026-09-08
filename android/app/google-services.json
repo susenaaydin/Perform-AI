@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "333781022432",
+    "project_id": "performai-d58f4",
+    "storage_bucket": "performai-d58f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333781022432:android:3a71bb6fe1b71e27b74285",
+        "android_client_info": {
+          "package_name": "com.example.perform_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333781022432-ilkvg2l6gkdlogmasndn171haojvfpv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.perform_ai",
+            "certificate_hash": "be288d45b0643b686962cc83a42bb6a349eb5bc8"
+          }
+        },
+        {
+          "client_id": "333781022432-nd3n5q95hd632hufv6v22ccgvvjk5vde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDN2UopnAGZRlbsDe91fSLTXgftoj5Et4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333781022432-nd3n5q95hd632hufv6v22ccgvvjk5vde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333781022432-efi78l5tfpp5t4i7ng6h7mhjecvqt4hb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.performAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,106 @@
+# ==============================================================================
+# Flutter / Dart / Pub
+# ==============================================================================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+**/macos/Flutter/ephemeral/
+**/ios/Flutter/ephemeral/
+**/windows/flutter/ephemeral/
+**/linux/flutter/ephemeral/
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android Studio / Gradle build artifacts
+/android/app/debug
+/android/app/profile
+/android/app/release
+.gradle/
+local.properties
+
+# ==============================================================================
+# Security & Secret Credentials (DO NOT COMMIT TO GIT)
+# ==============================================================================
+# Environment files
+*.env
+*.env.*
+!.env.example
+
+# Firebase Admin SDK & Google Cloud Service Account Keys
+*firebase-adminsdk*.json
+serviceAccountKey.json
+!serviceAccountKey.json.example
+
+# Private Keys & Keystores
+*.key
+*.pem
+*.p12
+*.jks
+*.keystore
+
+# ==============================================================================
+# Python / Backend
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+var/
+sdist/
+installed.cfg
+*.egg
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==============================================================================
+# IDEs and Editors
+# ==============================================================================
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Miscellaneous OS & Scratch files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.bak
+*.swp
+*.tmp
+*.log
+
+# Scratch directory
+scratch/

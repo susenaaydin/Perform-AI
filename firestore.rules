@@ -1,0 +1,25 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Match user document in the 'users' collection
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      
+      // Match nested collections/documents (e.g., performances)
+      match /{document=**} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+
+    // Allow authenticated users to read server configurations
+    match /configs/{configId} {
+      allow read: if request.auth != null;
+    }
+
+    // Allow authenticated users to read character monologues (triads)
+    match /triads/{triadId} {
+      allow read: if request.auth != null;
+    }
+  }
+}

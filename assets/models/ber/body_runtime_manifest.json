@@ -1,0 +1,114 @@
+{
+  "model_name": "body_motion_tcn_float32.tflite",
+  "model_type": "lightweight_tcn_motion_features",
+  "runtime_model_file": "body_motion_tcn_float32.tflite",
+  "optional_runtime_model_file": "body_motion_tcn_float16.tflite",
+  "standardizer_file": "body_meed_motion_standardizer.npz",
+  "recommended_mobile_standardizer_file": "body_meed_motion_standardizer.json",
+  "label_map_file": "body_label_map.json",
+  "training_info_file": "body_motion_tcn_training_info.json",
+  "input_shape": [
+    1,
+    30,
+    279
+  ],
+  "sequence_length": 30,
+  "static_feature_dim": 92,
+  "final_frame_feature_dim": 279,
+  "output_shape": [
+    1,
+    7
+  ],
+  "labels": [
+    "neutral",
+    "happy",
+    "sad",
+    "surprise",
+    "fear",
+    "disgust",
+    "angry"
+  ],
+  "label_to_id": {
+    "neutral": 0,
+    "happy": 1,
+    "sad": 2,
+    "surprise": 3,
+    "fear": 4,
+    "disgust": 5,
+    "angry": 6
+  },
+  "upper_body_landmarks": {
+    "order": [
+      0,
+      7,
+      8,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      23,
+      24
+    ],
+    "names": [
+      "nose",
+      "left_ear",
+      "right_ear",
+      "left_shoulder",
+      "right_shoulder",
+      "left_elbow",
+      "right_elbow",
+      "left_wrist",
+      "right_wrist",
+      "left_hip",
+      "right_hip"
+    ]
+  },
+  "view_one_hot": {
+    "front": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "left": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "right": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "unknown": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "feature_order": {
+    "per_frame": [
+      "static_92",
+      "velocity_92",
+      "acceleration_92",
+      "view_one_hot_3"
+    ],
+    "static_92_order": [
+      "upper_body_landmarks_11x4",
+      "bone_lengths_10",
+      "joint_angles_7",
+      "shoulder_hip_torso_geometry_7",
+      "left_right_asymmetry_10",
+      "arm_openness_contraction_9",
+      "visibility_5"
+    ]
+  },
+  "runtime_rule": "Do not feed raw landmarks directly. Convert poseLandmarks [33, x/y/z/visibility] to 30x279 features, standardize with body_meed_motion_standardizer, then call the TFLite model.",
+  "not_for_this_model": [
+    "body_emotion_combined_cnn_float32.tflite",
+    "body_combined_standardizer.npz",
+    "body_meed_full_standardizer.npz",
+    "input [1,15,92]"
+  ]
+}
