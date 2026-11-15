@@ -142,8 +142,8 @@ The minimum system, hardware, and environment prerequisites to compile and run P
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/perform_ai.git
-cd perform_ai
+git clone https://github.com/susenaaydin/Perform-AI.git
+cd Perform-AI
 ```
 
 ---
